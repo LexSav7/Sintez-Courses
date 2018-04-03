@@ -17,7 +17,7 @@ public class MaxArray {
                 for (int i = c; i >= c - d; i--) {
                     System.out.println(i);
                     try {
-                        ints = new int[i];
+                        int[] ints = new int[i];
                         return i;
                     } catch (OutOfMemoryError e) { }
                 }
