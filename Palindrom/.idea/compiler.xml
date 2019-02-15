@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Palindrom_main" target="1.9" />
+      <module name="Palindrom_test" target="1.9" />
+      <module name="Palindrome_main" target="1.8" />
+      <module name="Palindrome_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

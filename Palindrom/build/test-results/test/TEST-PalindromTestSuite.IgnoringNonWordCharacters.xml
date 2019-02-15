@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromTestSuite.IgnoringNonWordCharacters" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-03-29T09:34:13" hostname="alexsav-Lenovo-ideapad-320-15IKB" time="0.025">
+  <properties/>
+  <testcase name="testIgnoringSpecialCharacters[0]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <testcase name="testIgnoringSpecialCharacters[1]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <testcase name="testIgnoringSpecialCharacters[2]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <testcase name="testIgnoringSpecialCharacters[0]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <testcase name="testIgnoringSpecialCharacters[1]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <testcase name="testIgnoringSpecialCharacters[2]" classname="PalindromTestSuite.IgnoringNonWordCharacters" time="0.001"/>
+  <system-out><![CDATA[Ignoring Non Word Characters:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

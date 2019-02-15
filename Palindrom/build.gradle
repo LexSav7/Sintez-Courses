@@ -1,0 +1,15 @@
+group 'Palindrom'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'application'
+mainClassName = 'Palindrom.Main'
+
+sourceCompatibility = 1.9
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'junit:junit:4.12'
+}

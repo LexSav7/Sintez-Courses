@@ -1,0 +1,16 @@
+group 'Lambdas'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.9
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'junit:4.12:4.12'
+}
+
+

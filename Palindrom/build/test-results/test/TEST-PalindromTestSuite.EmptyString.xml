@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromTestSuite.EmptyString" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-03-29T09:34:13" hostname="alexsav-Lenovo-ideapad-320-15IKB" time="0.046">
+  <properties/>
+  <testcase name="testEmptyInputString" classname="PalindromTestSuite.EmptyString" time="0.0"/>
+  <testcase name="testEmptyInputString" classname="PalindromTestSuite.EmptyString" time="0.0"/>
+  <system-out><![CDATA[Testing empty string:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

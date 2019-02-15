@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-03-21T09:05:59" hostname="alexsav-Lenovo-ideapad-320-15IKB" time="0.031">
+  <properties/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[0]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.001"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[1]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.0"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[2]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.001"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[3]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.0"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[0]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.001"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[1]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.0"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[2]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.001"/>
+  <testcase name="testAreFirstAndLastTwoCharactersTheSame[3]" classname="com.in28minutes.junit.helper.StringHelperAreFirstAndLastTwoCharactersTheSameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
